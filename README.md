@@ -1,5 +1,7 @@
 #Docker-python
 
-This docker is made for unRAID to run my python scripts on.
+This docker image is my first attempt at setting up some of my own python utilities for unRAID.
+
+
 
 
